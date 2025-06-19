@@ -59,7 +59,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/object-aryan/login-page",
 		},
 
 		{

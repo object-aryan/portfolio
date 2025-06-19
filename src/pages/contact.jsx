@@ -165,7 +165,10 @@ const Contact = () => {
 														alt="logo"
 													/>
 												</a>
-												<a href="." id="izldf-2">
+												<a
+													href="https://www.instagram.com/thakur_aryannnnnnn?igsh=ZXhzcnlrd3ZtZzNp"
+													id="izldf-2"
+												>
 													<img
 														className="link-img"
 														src="https://workik-widget-assets.s3.amazonaws.com/Footer1-83/v1/images/Icon-instagram.png"
